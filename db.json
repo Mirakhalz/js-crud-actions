@@ -7,6 +7,22 @@
       "color": "orange",
       "id": "0124081a-4daa-425a-bb40-d5c016893fe3",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue. Risus quis varius quam quisque. Quis risus sed vulputate odio. Ultrices eros in cursus turpis. Est velit egestas dui id ornare arcu. Sem fringilla ut morbi tincidunt augue interdum velit euismod. Dictumst quisque sagittis purus sit amet volutpat. Sed libero enim sed faucibus turpis in eu. Dui vivamus arcu felis bibendum ut tristique et egestas."
+    },
+    {
+      "id": "ac49865e-7c38-4331-9a65-5e3cf4379313"
+    },
+    {
+      "name": "Rugged Hiking Boots",
+      "price": 55.99,
+      "quantity": 25,
+      "id": "b75462bf-3172-4a9c-b307-cd4e962d016f"
+    },
+    {
+      "name": "Rugged Hiking Boots",
+      "price": 55.99,
+      "quantity": 25,
+      "id": "44a40035-2cc7-4aa7-8437-ca99b14a4f2d",
+      "description": "These are great"
     }
   ]
 }
